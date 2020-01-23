@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "608269743004",
+    "firebase_url": "https://gallery-app-d1a3c.firebaseio.com",
+    "project_id": "gallery-app-d1a3c",
+    "storage_bucket": "gallery-app-d1a3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608269743004:android:ed11945bf152b74f520e59",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608269743004-a47cj77dsaa2enlcdcng9h2o4mfek8a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvr-7Nr-DQkuOWDMwWrjqPe1BDG6hjk-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608269743004-a47cj77dsaa2enlcdcng9h2o4mfek8a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
